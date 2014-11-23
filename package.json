@@ -1,0 +1,23 @@
+{
+  "name": "ub-data",
+  "version": "0.1.0",
+  "description": "A data persistence library",
+  "main": "src/model.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/debjitbis08/ub-data.git"
+  },
+  "keywords": [
+    "ub",
+    "domain-layer"
+  ],
+  "author": "Debjit Biswas",
+  "license": "GNU GPL v3.0",
+  "bugs": {
+    "url": "https://github.com/debjitbis08/ub-data/issues"
+  },
+  "homepage": "https://github.com/debjitbis08/ub-data"
+}
